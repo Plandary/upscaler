@@ -1,9 +1,9 @@
-import torch
-import requests
 import base64
 import time
 from io import BytesIO
 
+import torch
+import requests
 import numpy as np
 import torchvision.transforms as transforms
 from PIL import Image
